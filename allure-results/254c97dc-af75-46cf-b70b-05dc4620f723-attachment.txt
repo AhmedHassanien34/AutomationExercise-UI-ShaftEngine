@@ -1,0 +1,48 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                           Test Method: 'testCases.testAuthentication.TestLogin.LoginUserWithCorrectEmailAndPassword'                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Attempting to getAttribute "hidden" from elementLocator "By.xpath: //img[@alt='Website for automation practice']". @07-04-2024 00:21:58.0811 AM
+[ReportManager] Get attribute from "Website for automation practice". @07-04-2024 00:21:58.0920 AM
+[ReportManager] Expected "null", and actual "null" @07-04-2024 00:21:58.0921 AM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'null' for the 'hidden' attribute, element locator 'By.xpath: //img[@alt='Website for automation practice']'" and Actual "null". Comparison Type "EQUALS". Validation Type "POSITIVE". @07-04-2024 00:22:02.0313 AM
+[ReportManager] Assertion Passed: Verify that home page is visible successfully @07-04-2024 00:22:02.0313 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1712442120921_LoginUserWithCorrectEmailAndPassword_ValidateElementAttribute_passed' @07-04-2024 00:22:02.0365 AM
+[ReportManager] Moved the mouse to the middle of the element. @07-04-2024 00:22:02.0544 AM
+[ReportManager] Click " Signup / Login". @07-04-2024 00:22:02.0580 AM
+[ReportManager] Attempting to getAttribute "hidden" from elementLocator "By.xpath: //div[@class='login-form']/child::h2". @07-04-2024 00:22:04.0018 AM
+[ReportManager] Get attribute from "Login to your account". @07-04-2024 00:22:04.0081 AM
+[ReportManager] Expected "null", and actual "null" @07-04-2024 00:22:04.0081 AM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'null' for the 'hidden' attribute, element locator 'By.xpath: //div[@class='login-form']/child::h2'" and Actual "null". Comparison Type "EQUALS". Validation Type "POSITIVE". @07-04-2024 00:22:04.0471 AM
+[ReportManager] Assertion Passed: Verify 'New User Signup!' is visible @07-04-2024 00:22:04.0472 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1712442124388_LoginUserWithCorrectEmailAndPassword_ValidateElementAttribute_passed' @07-04-2024 00:22:04.0474 AM
+[ReportManager] Get text "Login to your account" from "Login to your account". @07-04-2024 00:22:04.0536 AM
+[ReportManager] Expected "Login to your account", and actual "Login to your account" @07-04-2024 00:22:04.0537 AM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Login to your account' for the 'text' attribute, element locator 'By.xpath: //div[@class='login-form']/child::h2'" and Actual "Login to your account". Comparison Type "EQUALS". Validation Type "POSITIVE". @07-04-2024 00:22:04.0811 AM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: //div[@class='login-form']/child::h2" text is equal to "Login to your account". @07-04-2024 00:22:04.0811 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1712442124739_LoginUserWithCorrectEmailAndPassword_ValidateElementAttribute_passed' @07-04-2024 00:22:04.0813 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/login.json"". @07-04-2024 00:22:04.0816 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/login.json"". @07-04-2024 00:22:04.0816 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/login.json"". @07-04-2024 00:22:06.0050 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/login.json"". @07-04-2024 00:22:06.0051 AM
+[ReportManager] Type "AhmedHassanien34@gmail.com" into "Email Address". @07-04-2024 00:22:06.0202 AM
+[ReportManager] Type "Ahmed123" into "Password". @07-04-2024 00:22:06.0290 AM
+[ReportManager] Moved the mouse to the middle of the element. @07-04-2024 00:22:06.0468 AM
+[ReportManager] Click "Login". @07-04-2024 00:22:06.0499 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/login.json"". @07-04-2024 00:22:06.0501 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/login.json"". @07-04-2024 00:22:06.0502 AM
+[ReportManager] Attempting to getAttribute "hidden" from elementLocator "By.xpath: //a[contains( . , ' Logged in as ')]". @07-04-2024 00:22:18.0065 AM
+[ReportManager] Get attribute from "By.xpath: //a[contains( . , ' Logged in as ')]". @07-04-2024 00:22:18.0110 AM
+[ReportManager] Expected "null", and actual "null" @07-04-2024 00:22:18.0110 AM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'null' for the 'hidden' attribute, element locator 'By.xpath: //a[contains( . , ' Logged in as ')]'" and Actual "null". Comparison Type "EQUALS". Validation Type "POSITIVE". @07-04-2024 00:22:20.0864 AM
+[ReportManager] Assertion Passed:  Verify that 'Logged in as username' is visible @07-04-2024 00:22:20.0865 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1712442139811_LoginUserWithCorrectEmailAndPassword_ValidateElementAttribute_passed' @07-04-2024 00:22:20.0884 AM
+[ReportManager] Get text "Logged in as Ahmed" from "By.xpath: //a[contains( . , ' Logged in as ')]". @07-04-2024 00:22:20.0941 AM
+[ReportManager] Expected "Logged in as Ahmed", and actual "Logged in as Ahmed" @07-04-2024 00:22:20.0941 AM
+[ReportManager] Assertion "ValidateElementAttribute" PASSED. Expected "Value Should be 'Logged in as Ahmed' for the 'text' attribute, element locator 'By.xpath: //a[contains( . , ' Logged in as ')]'" and Actual "Logged in as Ahmed". Comparison Type "EQUALS". Validation Type "POSITIVE". @07-04-2024 00:22:23.0498 AM
+[ReportManager] Assertion Passed: The Element located by "By.xpath: //a[contains( . , ' Logged in as ')]" text is equal to "Logged in as Ahmed". @07-04-2024 00:22:23.0498 AM
+[ReportManager] Successfully created attachment 'Screenshot - 1712442142423_LoginUserWithCorrectEmailAndPassword_ValidateElementAttribute_passed' @07-04-2024 00:22:23.0511 AM
+[ReportManager] Moved the mouse to the middle of the element. @07-04-2024 00:22:23.0671 AM
+[ReportManager] Click " Logout". @07-04-2024 00:22:23.0709 AM
